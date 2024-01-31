@@ -12,7 +12,7 @@ Although still in the final stages of production and undergoing refinements, we'
 Below, you'll find a comprehensive video walkthrough alongside a series of captivating images that showcase the unique gameplay and innovative features of our app.
 Get ready to unlock a world of savings with every adventure!
 
-Notes: Still under production so I haven't organized the codes completely and edit some relative referencing yet.
+Notes: Still under production so I haven't organized the codes completely and edit some path referencing yet.
 
 (Full Video:https://www.youtube.com/watch?v=pbT3nwsB3wM&ab_channel=JackHoang)
 
