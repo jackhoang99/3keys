@@ -1,4 +1,3 @@
-<img width="363" alt="Screenshot 2024-01-30 at 18 08 11" src="https://github.com/jackhoang99/3keys/assets/114491294/e21245db-249a-4ebf-8054-a044cbde0b77">
 Introducing "3 Keys" - an exhilarating mobile app that blends the thrill of exploration with the joy of savings, inspired by the captivating gameplay of Pokemon Go. 
 Upon your first login, "3 Keys" instantly connects you with an engaging riddle game located right in your vicinity. 
 
